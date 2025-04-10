@@ -3,8 +3,8 @@
 import numpy as np
 
 # 界面配置
-COVER = './images/ui8.png'
-ICON_PATH = './images/555.ico'
+COVER = './images/cover.png'
+ICON_PATH = './images/icon.ico'
 
 # 摄像头配置
 VIDEO_STREAM = 0
